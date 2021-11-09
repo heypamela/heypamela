@@ -1,10 +1,9 @@
 ## Hey 👋
-## Welcome
 
-### Eu sou Pamela
+## Eu sou Pamela
 
 - 🌱 Estudando Javascript, NodeJs e Chatbot
-- 😄 Pronouns: ela / dela
+- 😄 Pronomes: ela / dela
 
 <div align="center">
   <a href="https://github.com/heypamela">
