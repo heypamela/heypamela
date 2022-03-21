@@ -1,8 +1,9 @@
 ## Hey 👋
 
-## Eu sou Pamela
+## Eu sou Pâmela
 
 - 🌱 Estudando Javascript, NodeJs e Chatbot
+- 👩🏼‍💻 Desenvolvedora Back-end Jr na Dasa
 - 😄 Pronomes: ela / dela
 
 <div align="center">
