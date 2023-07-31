@@ -2,8 +2,8 @@
 
 ## Eu sou Pâmela
 
-- 🌱 Estudando Javascript, NodeJs e Chatbot
-- 👩🏼‍💻 Desenvolvedora Back-end Jr na Dasa
+- 🌱 Estudando NodeJs, Typescript, Banco de Dados e Segurança Cibernética.
+- 👩🏼‍💻 Desenvolvedora Back-end na Dasa
 - 😄 Pronomes: ela / dela
 
 <div align="center">
