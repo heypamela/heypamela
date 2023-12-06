@@ -2,9 +2,11 @@
 
 ## Eu sou Pâmela
 
-- 🌱 Estudando NodeJs, Typescript, Banco de Dados e Segurança Cibernética.
-- 👩🏼‍💻 Desenvolvedora Back-end na Dasa
-- 😄 Pronomes: ela / dela
+- 👩🏼‍💻 Desenvolvedora Back-end e futura desenvolvedora full-stack
+  
+- 🌱 Estudando React
+- 💻 Habituada em NodeJs, NextJs, Typescript, Banco de Dados (Postgres, MongoDB e MySQL) e Jest
+
 
 <div align="center">
   <a href="https://github.com/heypamela">
