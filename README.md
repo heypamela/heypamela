@@ -1,11 +1,14 @@
 ## Hey 👋
+## Bem-vindo(a) ao meu perfil
 
-## Eu sou Pâmela
+## Eu sou a Pâmela
 
 - 👩🏼‍💻 Desenvolvedora Back-end e futura desenvolvedora full-stack
   
 - 🌱 Estudando React
 - 💻 Habituada em NodeJs, NextJs, Typescript, Banco de Dados (Postgres, MongoDB e MySQL) e Jest
+
+- Atualizando alguns projetos e também subindo projetos novos, dê uma olhada 😉
 
 
 <div align="center">
