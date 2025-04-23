@@ -10,7 +10,7 @@
 <h3 align="justify">🧠 Sobre mim</h3>
 <p> 👩🏼‍💻 Desenvolvedora Back-end (em formação full-stack)<br> </p>
 <p> 🚀 Atualmente estudando <strong>React</strong> e <strong>Java</strong><br> </p>
-<p> 💻 Já trabalhei com <strong>Node.js, NestJS, TypeScript</strong>, bancos de dados relacionais (<strong>PostgreSQL, MongoDB, MySQL</strong>) e NoSQL (<strong>MongoDB</strong>), mensageria com <strong>Redis</strong> e <strong>Apache Kafka</strong>, além de testes com <strong>Jest</strong><br>
+<p> 💻 Já trabalhei com <strong>Node.js, NestJS, TypeScript</strong>, bancos de dados relacionais (<strong>PostgreSQL, MySQL</strong>) e NoSQL (<strong>MongoDB, Redis</strong>), mensageria com <strong>Redis</strong> e <strong>Apache Kafka</strong>, além de testes com <strong>Jest</strong><br>
 <p> ✨ Sempre atualizando meus projetos por aqui, <strong>fica de olho!</strong> 😉 </p>
 
 <br> <br>
